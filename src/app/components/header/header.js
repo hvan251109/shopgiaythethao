@@ -8,7 +8,7 @@ export default function Header() {
       {/* Khối Logo bên trái */}
       <div className={styles.logo}>
         <Image 
-          src="/shop giày bóng đá.png" 
+          src="/concho.png" 
           alt="Logo" 
           width={120} 
           height={60} 
